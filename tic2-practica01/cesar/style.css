@@ -1,0 +1,106 @@
+body{
+	background-color:#F5F5F5;
+	margin-top:15px;
+	margin-right:40px;
+	margin-bottom:20px;
+	margin-left:80px;
+	font-family:Arial;
+}
+h1{
+	font-family:Arial;
+	color:#1B345B;
+}
+h2{
+	font-family:Arial;
+	color:#254d80;
+}
+td{
+	color:#152238;
+	font-size:20px;
+	background-color:;
+	}
+table {
+	border-color:#00224B;
+	border:2xp;
+	}
+#enlacecabecera{
+	color:#254d80;
+	font-family:Arial;
+	font-weight:bold
+}
+
+#usc2 {
+  width: 300px; 
+  height: auto;
+}
+#udc {
+  width: 300px; 
+  height: auto;
+}
+#logoudc {
+  width: 600px; 
+  height: auto;
+}
+#juanca {
+  width: 300px; 
+  height: auto;
+}
+#logojuanca {
+  width: 400px; 
+  height: auto;
+}
+#lagu {
+  width: 300px; 
+  height: auto;
+}
+#logolagu {
+  width: 400px; 
+  height: auto;
+}
+#sevi {
+  width: 400px; 
+  height: auto;
+}
+#logosevi {
+  width: 400px; 
+  height: auto;
+}
+#mala {
+  width: 400px; 
+  height: auto;
+}
+#logomala {
+  width: 300px; 
+  height: auto;
+}
+#labo {
+  width: 300px; 
+  height: auto;
+}
+#logolabo {
+  width: 300px; 
+  height: auto;
+}
+#kk {
+	font-size:9px;
+}
+p {
+	font-family:Arial;
+}
+#cambri {
+	 width: 350px; 	
+	 height: auto;
+}
+#univ {
+	 width: 400px; 	
+	 height: auto;
+}
+#ciud {
+	 width: 448px; 	
+	 height: auto;
+}
+#firma{
+	font-size:10px;
+	font-family:Arial;
+	color:#FOF8FF;
+}
